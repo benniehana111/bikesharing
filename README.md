@@ -10,7 +10,7 @@ This analysis examines data on the Citibike bikesharing service in New York City
 
 The Citibike data shows that the great majority of bikesharing rides in NYC are less than 20 minutes in duration, and virtually all bikesharing rides are less than 60 minutes. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/CheckoutTimesforUsers#1
 
-![image](https://user-images.githubusercontent.com/103535389/185759912-031bd340-85a5-4c24-b746-4c9525be5bf5.png)
+![image](https://user-images.githubusercontent.com/103535389/185760091-5c72a542-37cb-432e-96c5-c20cf4146add.png)
 
 Men account for approximately 75% of the customer base. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/CheckoutTimesbyGender#1
 
