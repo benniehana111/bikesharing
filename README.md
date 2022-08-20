@@ -46,9 +46,6 @@ Graphs #7/8
 
 Graphs #7/8 - The starting and ending locations of bike rides are concentrated in the same areas, with a slightly greater dispersion of ending locations in outlying neighborhoods.
 
-
 # Summary
 
-
-
-https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/CheckoutTimesforUsers#1
+The analysis provides a useful starting point in making investment decisions for a new bikesharing service in Des Moines, offering insights into potential rider demographics, temporal patterns of ridership, and maintenance requirements across the bicycle fleet. Additional analysis is needed: the first additional patterns that should be analyzed are (1) the relationship between ride volumes and weather conditions (both daytime temperature and precipitation), and (2) the relationship between ride volumes and bikeshare pricing.  
