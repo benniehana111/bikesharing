@@ -2,11 +2,13 @@
 
 # Overview
 
-This analysis examines data on the Citibike bikesharing service in New York City in order to derive insights for the creation of a similiar bikesharing service in Des Moines, Iowa. To inform potential investment decisions in a Des Moines bikesharing service, this study examines usage patterns in the NYC Citibike service.
+This analysis examines data on the Citibike bikesharing service in New York City in order to derive insights for launching a bikesharing service in Des Moines, Iowa. To inform investment decisions, this study examines usage patterns in the NYC bikesharing service.
 
 # Results
 
-The Citibike data shows that the great majority of bikesharing rides in NYC are less than 20 minutes in duration, and virtually all bikesharing rides are less than 60 minutes.
+![image](https://user-images.githubusercontent.com/103535389/185759856-a15302d2-7c34-451c-a4fe-0ce7ee271fee.png)
+
+The Citibike data shows that the great majority of bikesharing rides in NYC are less than 20 minutes in duration, and virtually all bikesharing rides are less than 60 minutes. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/CheckoutTimesforUsers#1
 
 Men account for approximately 75% of the customer base.
 
