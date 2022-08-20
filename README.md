@@ -10,13 +10,22 @@ This analysis examines data on the Citibike bikesharing service in New York City
 
 The Citibike data shows that the great majority of bikesharing rides in NYC are less than 20 minutes in duration, and virtually all bikesharing rides are less than 60 minutes. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/CheckoutTimesforUsers#1
 
-Men account for approximately 75% of the customer base.
+![image](https://user-images.githubusercontent.com/103535389/185759912-031bd340-85a5-4c24-b746-4c9525be5bf5.png)
 
-The peak ridership hours are during weekday morning (8-9am) and evening (5-7pm) rush hours, with significant usage on the weekends between 10am and 6pm.
+Men account for approximately 75% of the customer base. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/CheckoutTimesbyGender#1
 
-There is little significant difference between the peak usage hours of women and men.
+![image](https://user-images.githubusercontent.com/103535389/185759970-2a88f998-edde-4df6-be01-b103ce05b139.png)
 
-The peak ridership ocurred on Thursdays; the lowest ridership occurred on Wednesdays.
+The peak ridership hours are during weekday morning (8-9am) and evening (5-7pm) rush hours, with significant usage on the weekends between 10am and 6pm. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/TripsbyWeekdayperHour#1
+
+![image](https://user-images.githubusercontent.com/103535389/185760001-3e1b1e10-1671-410a-b4fb-1e4438113632.png)
+
+There is little significant difference between the peak usage hours of women and men. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/TripsbyGenderWeekdayperHour#1
+
+![image](https://user-images.githubusercontent.com/103535389/185760039-469ad3f8-280e-4a3e-be58-20bb3673df33.png)
+
+The peak ridership ocurred on Thursdays; the lowest ridership occurred on Wednesdays. https://public.tableau.com/authoring/bikesharing_challenge_16605070897060/UserTripsbyGenderbyWeekday#1
+
 
 
 
